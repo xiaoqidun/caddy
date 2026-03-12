@@ -32,6 +32,6 @@ jobs:
           provenance: false
           tags: |
             ccr.ccs.tencentyun.com/xiaoqidun/caddy:latest
-            ccr.ccs.tencentyun.com/xiaoqidun/caddy:2.11.1
+            ccr.ccs.tencentyun.com/xiaoqidun/caddy:2.11.2
             hkccr.ccs.tencentyun.com/xiaoqidun/caddy:latest
-            hkccr.ccs.tencentyun.com/xiaoqidun/caddy:2.11.1
+            hkccr.ccs.tencentyun.com/xiaoqidun/caddy:2.11.2
